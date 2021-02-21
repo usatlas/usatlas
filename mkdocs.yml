@@ -1,0 +1,5 @@
+site_name: The ATLAS Experiment in the US
+docs_dir: docs
+nav:
+    - index.md
+theme: readthedocs
